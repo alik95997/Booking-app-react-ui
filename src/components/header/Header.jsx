@@ -104,22 +104,24 @@ const Header = () => {
                 <div className="optionCounter">
                   <button className="optionCounterButton">-</button>
                   <span className="optionCounterNUmber">1</span>
-
                   <button className="optionCounterButton">+</button>
                 </div>
               </div>
               <div className="optionItem">
                 <span className="optionText">Children</span>
-                <button className="optionCounterButton">-</button>
-                <span className="optionCounterNUmber">0</span>
-
-                <button className="optionCounterButton">+</button>
+                <div className="optionCounter">
+                  <button className="optionCounterButton">-</button>
+                  <span className="optionCounterNUmber">0</span>
+                  <button className="optionCounterButton">+</button>
+                </div>
               </div>
               <div className="optionItem">
                 <span className="optionText">Room</span>
-                <button className="optionCounterButton">-</button>
-                <span className="optionCounterNUmber">1</span>
-                <button className="optionCounterButton">+</button>
+                <div className="optionCounter">
+                  <button className="optionCounterButton">-</button>
+                  <span className="optionCounterNUmber">1</span>
+                  <button className="optionCounterButton">+</button>
+                </div>
               </div>
             </div>
           </div>
