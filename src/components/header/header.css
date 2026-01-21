@@ -12,7 +12,8 @@
     max-width: 1024px;
     margin: 20px 0px 100px 0px;
 }
-.headerContainer.listMode{
+
+.headerContainer.listMode {
     margin: 20px 0px 0px 0px;
 
 }
@@ -50,7 +51,6 @@
 }
 
 .headerSearch {
-    height: 30px;
     color: white;
     background-color: white;
     border: 3px solid #febb02;
@@ -58,6 +58,7 @@
     align-items: center;
     justify-content: space-around;
     padding: 10px 0px;
+    height: 30px;
 
     border-radius: 5px;
     position: absolute;
@@ -123,6 +124,7 @@
     color: #0071c2;
     cursor: pointer;
 }
-.optionCounterButton:disabled{
+
+.optionCounterButton:disabled {
     cursor: not-allowed;
 }
