@@ -7,7 +7,7 @@
 }
 
 .pListItem {
-    flex: 1; 
+    flex: 1;
     border-radius: 10px;
     overflow: hidden;
     cursor: pointer;
@@ -19,7 +19,7 @@
     object-fit: cover;
 }
 
-.pListTitles>h1 {
+.pListTitles > h1 {
     font-size: 18px;
 }
 
