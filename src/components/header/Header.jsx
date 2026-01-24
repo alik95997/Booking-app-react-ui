@@ -80,7 +80,7 @@ const Header = ({ type }) => {
             </h1>
             <p className="headerDesc">
               Get reward for your travel - unlock instant more with a free
-              LamaBooking acccount{" "}
+              AliBooking acccount{" "}
             </p>
             <button className="headerBtn">Sign In / Register</button>
             <div className="headerSearch">
